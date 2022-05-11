@@ -1,0 +1,1 @@
+This is a personalized resume using the techniques that we've learned within our lecture today on 05/10/2022.

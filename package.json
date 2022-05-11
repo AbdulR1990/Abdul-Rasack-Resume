@@ -1,0 +1,14 @@
+{
+  "name": "abdul-resume",
+  "version": "1.0.0",
+  "description": "resume for abdul rasack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC", 
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+}
